@@ -10,6 +10,25 @@ The system uses historical visa application data to estimate how long a visa dec
 This project is developed as part of Module 1 of the internship.
 
 ---
+## Dataset
+
+The dataset used in this project:
+
+Due to GitHub file size limits, the dataset is not included in this repository.
+
+
+https://www.kaggle.com/datasets/evangelize/h1b-visa-applications
+
+Place the file inside:
+data/raw_visa_data.csv
+
+
+
+
+
+
+
+
 
 ## 🧠 How It Works
 
