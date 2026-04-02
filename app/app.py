@@ -7,9 +7,9 @@ st.title("AI Enabled Visa Processing Time Estimator")
 # -----------------------------
 # Load model and encoders
 # -----------------------------
-model = joblib.load("models/visa_model.pkl")
-center_encoder = joblib.load("models/center_encoder.pkl")
-status_encoder = joblib.load("models/status_encoder.pkl")
+model = joblib.load("visa_model.pkl")
+center_encoder = joblib.load("center_encoder.pkl")
+status_encoder = joblib.load("status_encoder.pkl")
 
 # -----------------------------
 # US State Full Name Mapping
