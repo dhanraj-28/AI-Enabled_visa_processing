@@ -23,7 +23,7 @@ Place the file inside:
 data/raw_visa_data.csv
 
 
-
+Deploy link: https://ai-enabledvisaprocessing-52twrjkgh7qwfwsswjjryk.streamlit.app/
 
 
 
